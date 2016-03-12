@@ -1,0 +1,23 @@
+
+* {
+	font-size: 1em;
+	color: #1f2e2e;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+}
+
+
+body {
+ 	background-color: #666666;
+}
+
+.btn {
+	display: block;
+	margin-top: 15px;
+	border: 1px solid #cccccc;
+	background-color: #989898;
+	color: #cccccc;
+	padding: 15px;
+	margin: 0 auto;
+}
