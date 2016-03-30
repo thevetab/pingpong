@@ -13,6 +13,9 @@ Numbers divisible by 15 are replaced with "pingpong"
 
 page uses: HTML, CSS, BOOTSTRAP, JAVASCRIPT AND JQUERY.
 
+##Setup
+
+* View on [Github Pages](http://thevetab.github.io/pingpong)
 
 Copyright 2015 Epicodus.
 
